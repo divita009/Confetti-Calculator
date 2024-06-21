@@ -1,5 +1,5 @@
-![banner](banner.png)
 Project by : DIVITA VARSHNEY 
+![banner](banner.png)
 
 ## Clone of macOS calculator built with react
 
