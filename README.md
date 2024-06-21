@@ -2,6 +2,7 @@ Project image screenshot:
 ![calculator interface](https://github.com/divita009/Confetti-Calculator/assets/118135723/7f01da10-aacc-4834-b74d-384b4bfb9e9e)
 
 Deployment link: https://chamoda.com/react-calculator/
+
 Name : DIVITA VARSHNEY 
 
 
